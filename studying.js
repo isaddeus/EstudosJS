@@ -43,7 +43,7 @@ switch ("Em qual dia da semana estamos?") {
     case "sexta-feira":
         console.log("Sextou!")
         break; 
-    case "sábado"
+    case "sábado":
         console.log("Hoje é sábado.")
         break;
     default:
